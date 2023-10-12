@@ -2,7 +2,7 @@
 # unnested arrays are included as view with their own dimensions below
 
 view: patient {
-  sql_table_name: healthcaretest.synthea_generated_synthetic_data_in_fhir.patient ;;
+  sql_table_name: healthcaretest.patient ;;
   drill_fields: [id]
 
   #########  Standard dimensions  #########
