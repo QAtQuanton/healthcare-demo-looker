@@ -1,4 +1,4 @@
-connection: "lookerdata"
+connection: "healthcaretest"
 # include: "/demo_vitals/*.view.lkml"
 include: "/simplified_views/*.view.lkml"
 include: "/unnested_views/*.view.lkml"
