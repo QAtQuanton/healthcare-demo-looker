@@ -1,5 +1,5 @@
 view: encounter_simple {
-  sql_table_name: healthcare_demo_live.encounter_simple ;;
+  sql_table_name: synthea_generated_synthetic_data_in_fhir.encounter ;;
   drill_fields: [id]
 
   dimension: id {
