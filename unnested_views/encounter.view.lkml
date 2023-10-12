@@ -2,7 +2,7 @@
 # unnested arrays are included as view with their own dimensions below
 
 view: encounter {
-  sql_table_name: healthcaretest.encounter ;;
+  sql_table_name: synthea_generated_synthetic_data_in_fhir.encounter ;;
 
   #########  Standard dimensions  #########
 
